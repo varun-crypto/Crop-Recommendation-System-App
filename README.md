@@ -1,5 +1,7 @@
 # Crop-Recommendation-System-App
 
+![image](https://github.com/varun-crypto/Crop-Recommendation-System-App/assets/69026838/af6fdc0e-94f0-4047-b135-89ed8a863575)
+
 ## Introduction
 This project presents a machine learning system designed to predict suitable crop types for specific environmental and soil conditions. Leveraging a Random Forest classifier, the system analyzes factors such as temperature, humidity, pH, rainfall, and soil nutrients (N, P, K) to provide crop recommendations, aiding farmers in making informed decisions.
 
